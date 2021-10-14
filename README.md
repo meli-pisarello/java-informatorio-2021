@@ -109,12 +109,14 @@ Luego imprimirá el siguiente mensaje:
 Dado un String de entrada (frase, texto, etc) calcular la cantidad de veces que aparece una letra dada.
 
 > **Input:**<br>
-> informatorio
+> Hola Informatorio Java 2020.<br>
+> a
 
 > **Output:**<br>
-> INFORMATORIO
+> 4
 
 ---
+
 ## Ejercicios Complementarios Level 2
 
 ### Ejercicio 1
